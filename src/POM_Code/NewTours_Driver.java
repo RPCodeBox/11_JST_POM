@@ -1,7 +1,9 @@
 /* Script Name: NewTours_Driver.java
  * Author:	Rana Pratap
- * Data: Jan 2018 Version 1.0 */
-package POM_Code;
+ * Data: Jan 2018 Version 1.0
+ * Data: May 2019 Version 1.0 */
+
+ package POM_Code;
 
 import org.openqa.selenium.WebDriver;
 import static org.junit.Assert.*;
