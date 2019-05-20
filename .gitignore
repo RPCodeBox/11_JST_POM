@@ -1,6 +1,6 @@
 
 # testNG
-/test-output/
+test-output/
 
 # eclipse project file
 .settings/
